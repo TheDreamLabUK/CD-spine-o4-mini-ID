@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+pillow
+pytesseract
+requests
+musicbrainzngs
+spotipy
+openai
